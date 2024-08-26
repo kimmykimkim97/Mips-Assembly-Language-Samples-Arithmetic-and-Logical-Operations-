@@ -1,4 +1,5 @@
 Mips Assembly Program that runs 3 arithmetic operations and 3 logical operations. 
+Program is run using QtSpim
 
 Arithmetic Operations:
 1. (A - B) * C
